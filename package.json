@@ -1,24 +1,15 @@
 {
   "name": "chat-application",
   "version": "1.0.0",
-  "description": "Learn with Sumit Node.js Chat Application",
+  "description": " Chat Application",
   "main": "index.js",
-  "engines": {
-    "node": "22.x"
-  },
   "scripts": {
     "start": "node index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/learnwithsumit/chat-application.git"
-  },
+
   "author": "Sumit Saha <sumit.analyzen@gmail.com>",
   "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/learnwithsumit/chat-application/issues"
-  },
-  "homepage": "https://github.com/learnwithsumit/chat-application#readme",
+
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cookie-parser": "^1.4.5",
